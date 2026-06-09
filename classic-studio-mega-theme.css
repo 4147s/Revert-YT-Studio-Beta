@@ -1,0 +1,7207 @@
+/* ==UserStyle==
+@name Classic Studio Inspired Mega Theme
+@namespace custom.giochannel
+@version 1.0.0
+@description Original YouTube Studio-inspired theme
+@license MIT
+==/UserStyle== */
+
+/* Section 1 */
+.studio-panel-1 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 2 */
+.studio-panel-2 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 3 */
+.studio-panel-3 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 4 */
+.studio-panel-4 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 5 */
+.studio-panel-5 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 6 */
+.studio-panel-6 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 7 */
+.studio-panel-7 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 8 */
+.studio-panel-8 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 9 */
+.studio-panel-9 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 10 */
+.studio-panel-10 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 11 */
+.studio-panel-11 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 12 */
+.studio-panel-12 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 13 */
+.studio-panel-13 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 14 */
+.studio-panel-14 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 15 */
+.studio-panel-15 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 16 */
+.studio-panel-16 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 17 */
+.studio-panel-17 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 18 */
+.studio-panel-18 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 19 */
+.studio-panel-19 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 20 */
+.studio-panel-20 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 21 */
+.studio-panel-21 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 22 */
+.studio-panel-22 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 23 */
+.studio-panel-23 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 24 */
+.studio-panel-24 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 25 */
+.studio-panel-25 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 26 */
+.studio-panel-26 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 27 */
+.studio-panel-27 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 28 */
+.studio-panel-28 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 29 */
+.studio-panel-29 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 30 */
+.studio-panel-30 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 31 */
+.studio-panel-31 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 32 */
+.studio-panel-32 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 33 */
+.studio-panel-33 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 34 */
+.studio-panel-34 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 35 */
+.studio-panel-35 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 36 */
+.studio-panel-36 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 37 */
+.studio-panel-37 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 38 */
+.studio-panel-38 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 39 */
+.studio-panel-39 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 40 */
+.studio-panel-40 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 41 */
+.studio-panel-41 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 42 */
+.studio-panel-42 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 43 */
+.studio-panel-43 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 44 */
+.studio-panel-44 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 45 */
+.studio-panel-45 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 46 */
+.studio-panel-46 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 47 */
+.studio-panel-47 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 48 */
+.studio-panel-48 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 49 */
+.studio-panel-49 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 50 */
+.studio-panel-50 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 51 */
+.studio-panel-51 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 52 */
+.studio-panel-52 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 53 */
+.studio-panel-53 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 54 */
+.studio-panel-54 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 55 */
+.studio-panel-55 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 56 */
+.studio-panel-56 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 57 */
+.studio-panel-57 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 58 */
+.studio-panel-58 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 59 */
+.studio-panel-59 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 60 */
+.studio-panel-60 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 61 */
+.studio-panel-61 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 62 */
+.studio-panel-62 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 63 */
+.studio-panel-63 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 64 */
+.studio-panel-64 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 65 */
+.studio-panel-65 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 66 */
+.studio-panel-66 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 67 */
+.studio-panel-67 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 68 */
+.studio-panel-68 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 69 */
+.studio-panel-69 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 70 */
+.studio-panel-70 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 71 */
+.studio-panel-71 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 72 */
+.studio-panel-72 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 73 */
+.studio-panel-73 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 74 */
+.studio-panel-74 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 75 */
+.studio-panel-75 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 76 */
+.studio-panel-76 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 77 */
+.studio-panel-77 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 78 */
+.studio-panel-78 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 79 */
+.studio-panel-79 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 80 */
+.studio-panel-80 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 81 */
+.studio-panel-81 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 82 */
+.studio-panel-82 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 83 */
+.studio-panel-83 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 84 */
+.studio-panel-84 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 85 */
+.studio-panel-85 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 86 */
+.studio-panel-86 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 87 */
+.studio-panel-87 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 88 */
+.studio-panel-88 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 89 */
+.studio-panel-89 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 90 */
+.studio-panel-90 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 91 */
+.studio-panel-91 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 92 */
+.studio-panel-92 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 93 */
+.studio-panel-93 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 94 */
+.studio-panel-94 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 95 */
+.studio-panel-95 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 96 */
+.studio-panel-96 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 97 */
+.studio-panel-97 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 98 */
+.studio-panel-98 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 99 */
+.studio-panel-99 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 100 */
+.studio-panel-100 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 101 */
+.studio-panel-101 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 102 */
+.studio-panel-102 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 103 */
+.studio-panel-103 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 104 */
+.studio-panel-104 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 105 */
+.studio-panel-105 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 106 */
+.studio-panel-106 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 107 */
+.studio-panel-107 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 108 */
+.studio-panel-108 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 109 */
+.studio-panel-109 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 110 */
+.studio-panel-110 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 111 */
+.studio-panel-111 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 112 */
+.studio-panel-112 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 113 */
+.studio-panel-113 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 114 */
+.studio-panel-114 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 115 */
+.studio-panel-115 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 116 */
+.studio-panel-116 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 117 */
+.studio-panel-117 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 118 */
+.studio-panel-118 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 119 */
+.studio-panel-119 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 120 */
+.studio-panel-120 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 121 */
+.studio-panel-121 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 122 */
+.studio-panel-122 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 123 */
+.studio-panel-123 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 124 */
+.studio-panel-124 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 125 */
+.studio-panel-125 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 126 */
+.studio-panel-126 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 127 */
+.studio-panel-127 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 128 */
+.studio-panel-128 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 129 */
+.studio-panel-129 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 130 */
+.studio-panel-130 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 131 */
+.studio-panel-131 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 132 */
+.studio-panel-132 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 133 */
+.studio-panel-133 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 134 */
+.studio-panel-134 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 135 */
+.studio-panel-135 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 136 */
+.studio-panel-136 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 137 */
+.studio-panel-137 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 138 */
+.studio-panel-138 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 139 */
+.studio-panel-139 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 140 */
+.studio-panel-140 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 141 */
+.studio-panel-141 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 142 */
+.studio-panel-142 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 143 */
+.studio-panel-143 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 144 */
+.studio-panel-144 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 145 */
+.studio-panel-145 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 146 */
+.studio-panel-146 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 147 */
+.studio-panel-147 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 148 */
+.studio-panel-148 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 149 */
+.studio-panel-149 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 150 */
+.studio-panel-150 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 151 */
+.studio-panel-151 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 152 */
+.studio-panel-152 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 153 */
+.studio-panel-153 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 154 */
+.studio-panel-154 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 155 */
+.studio-panel-155 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 156 */
+.studio-panel-156 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 157 */
+.studio-panel-157 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 158 */
+.studio-panel-158 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 159 */
+.studio-panel-159 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 160 */
+.studio-panel-160 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 161 */
+.studio-panel-161 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 162 */
+.studio-panel-162 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 163 */
+.studio-panel-163 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 164 */
+.studio-panel-164 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 165 */
+.studio-panel-165 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 166 */
+.studio-panel-166 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 167 */
+.studio-panel-167 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 168 */
+.studio-panel-168 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 169 */
+.studio-panel-169 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 170 */
+.studio-panel-170 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 171 */
+.studio-panel-171 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 172 */
+.studio-panel-172 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 173 */
+.studio-panel-173 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 174 */
+.studio-panel-174 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 175 */
+.studio-panel-175 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 176 */
+.studio-panel-176 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 177 */
+.studio-panel-177 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 178 */
+.studio-panel-178 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 179 */
+.studio-panel-179 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 180 */
+.studio-panel-180 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 181 */
+.studio-panel-181 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 182 */
+.studio-panel-182 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 183 */
+.studio-panel-183 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 184 */
+.studio-panel-184 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 185 */
+.studio-panel-185 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 186 */
+.studio-panel-186 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 187 */
+.studio-panel-187 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 188 */
+.studio-panel-188 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 189 */
+.studio-panel-189 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 190 */
+.studio-panel-190 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 191 */
+.studio-panel-191 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 192 */
+.studio-panel-192 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 193 */
+.studio-panel-193 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 194 */
+.studio-panel-194 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 195 */
+.studio-panel-195 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 196 */
+.studio-panel-196 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 197 */
+.studio-panel-197 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 198 */
+.studio-panel-198 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 199 */
+.studio-panel-199 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 200 */
+.studio-panel-200 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 201 */
+.studio-panel-201 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 202 */
+.studio-panel-202 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 203 */
+.studio-panel-203 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 204 */
+.studio-panel-204 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 205 */
+.studio-panel-205 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 206 */
+.studio-panel-206 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 207 */
+.studio-panel-207 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 208 */
+.studio-panel-208 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 209 */
+.studio-panel-209 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 210 */
+.studio-panel-210 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 211 */
+.studio-panel-211 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 212 */
+.studio-panel-212 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 213 */
+.studio-panel-213 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 214 */
+.studio-panel-214 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 215 */
+.studio-panel-215 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 216 */
+.studio-panel-216 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 217 */
+.studio-panel-217 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 218 */
+.studio-panel-218 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 219 */
+.studio-panel-219 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 220 */
+.studio-panel-220 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 221 */
+.studio-panel-221 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 222 */
+.studio-panel-222 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 223 */
+.studio-panel-223 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 224 */
+.studio-panel-224 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 225 */
+.studio-panel-225 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 226 */
+.studio-panel-226 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 227 */
+.studio-panel-227 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 228 */
+.studio-panel-228 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 229 */
+.studio-panel-229 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 230 */
+.studio-panel-230 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 231 */
+.studio-panel-231 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 232 */
+.studio-panel-232 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 233 */
+.studio-panel-233 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 234 */
+.studio-panel-234 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 235 */
+.studio-panel-235 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 236 */
+.studio-panel-236 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 237 */
+.studio-panel-237 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 238 */
+.studio-panel-238 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 239 */
+.studio-panel-239 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 240 */
+.studio-panel-240 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 241 */
+.studio-panel-241 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 242 */
+.studio-panel-242 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 243 */
+.studio-panel-243 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 244 */
+.studio-panel-244 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 245 */
+.studio-panel-245 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 246 */
+.studio-panel-246 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 247 */
+.studio-panel-247 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 248 */
+.studio-panel-248 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 249 */
+.studio-panel-249 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 250 */
+.studio-panel-250 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 251 */
+.studio-panel-251 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 252 */
+.studio-panel-252 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 253 */
+.studio-panel-253 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 254 */
+.studio-panel-254 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 255 */
+.studio-panel-255 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 256 */
+.studio-panel-256 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 257 */
+.studio-panel-257 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 258 */
+.studio-panel-258 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 259 */
+.studio-panel-259 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 260 */
+.studio-panel-260 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 261 */
+.studio-panel-261 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 262 */
+.studio-panel-262 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 263 */
+.studio-panel-263 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 264 */
+.studio-panel-264 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 265 */
+.studio-panel-265 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 266 */
+.studio-panel-266 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 267 */
+.studio-panel-267 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 268 */
+.studio-panel-268 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 269 */
+.studio-panel-269 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 270 */
+.studio-panel-270 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 271 */
+.studio-panel-271 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 272 */
+.studio-panel-272 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 273 */
+.studio-panel-273 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 274 */
+.studio-panel-274 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 275 */
+.studio-panel-275 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 276 */
+.studio-panel-276 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 277 */
+.studio-panel-277 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 278 */
+.studio-panel-278 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 279 */
+.studio-panel-279 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 280 */
+.studio-panel-280 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 281 */
+.studio-panel-281 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 282 */
+.studio-panel-282 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 283 */
+.studio-panel-283 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 284 */
+.studio-panel-284 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 285 */
+.studio-panel-285 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 286 */
+.studio-panel-286 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 287 */
+.studio-panel-287 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 288 */
+.studio-panel-288 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 289 */
+.studio-panel-289 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 290 */
+.studio-panel-290 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 291 */
+.studio-panel-291 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 292 */
+.studio-panel-292 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 293 */
+.studio-panel-293 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 294 */
+.studio-panel-294 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 295 */
+.studio-panel-295 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 296 */
+.studio-panel-296 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 297 */
+.studio-panel-297 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 298 */
+.studio-panel-298 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 299 */
+.studio-panel-299 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 300 */
+.studio-panel-300 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 301 */
+.studio-panel-301 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 302 */
+.studio-panel-302 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 303 */
+.studio-panel-303 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 304 */
+.studio-panel-304 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 305 */
+.studio-panel-305 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 306 */
+.studio-panel-306 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 307 */
+.studio-panel-307 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 308 */
+.studio-panel-308 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 309 */
+.studio-panel-309 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 310 */
+.studio-panel-310 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 311 */
+.studio-panel-311 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 312 */
+.studio-panel-312 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 313 */
+.studio-panel-313 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 314 */
+.studio-panel-314 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 315 */
+.studio-panel-315 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 316 */
+.studio-panel-316 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 317 */
+.studio-panel-317 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 318 */
+.studio-panel-318 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 319 */
+.studio-panel-319 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 320 */
+.studio-panel-320 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 321 */
+.studio-panel-321 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 322 */
+.studio-panel-322 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 323 */
+.studio-panel-323 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 324 */
+.studio-panel-324 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 325 */
+.studio-panel-325 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 326 */
+.studio-panel-326 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 327 */
+.studio-panel-327 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 328 */
+.studio-panel-328 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 329 */
+.studio-panel-329 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 330 */
+.studio-panel-330 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 331 */
+.studio-panel-331 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 332 */
+.studio-panel-332 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 333 */
+.studio-panel-333 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 334 */
+.studio-panel-334 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 335 */
+.studio-panel-335 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 336 */
+.studio-panel-336 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 337 */
+.studio-panel-337 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 338 */
+.studio-panel-338 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 339 */
+.studio-panel-339 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 340 */
+.studio-panel-340 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 341 */
+.studio-panel-341 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 342 */
+.studio-panel-342 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 343 */
+.studio-panel-343 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 344 */
+.studio-panel-344 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 345 */
+.studio-panel-345 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 346 */
+.studio-panel-346 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 347 */
+.studio-panel-347 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 348 */
+.studio-panel-348 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 349 */
+.studio-panel-349 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 350 */
+.studio-panel-350 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 351 */
+.studio-panel-351 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 352 */
+.studio-panel-352 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 353 */
+.studio-panel-353 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 354 */
+.studio-panel-354 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 355 */
+.studio-panel-355 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 356 */
+.studio-panel-356 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 357 */
+.studio-panel-357 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 358 */
+.studio-panel-358 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 359 */
+.studio-panel-359 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 360 */
+.studio-panel-360 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 361 */
+.studio-panel-361 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 362 */
+.studio-panel-362 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 363 */
+.studio-panel-363 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 364 */
+.studio-panel-364 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 365 */
+.studio-panel-365 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 366 */
+.studio-panel-366 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 367 */
+.studio-panel-367 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 368 */
+.studio-panel-368 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 369 */
+.studio-panel-369 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 370 */
+.studio-panel-370 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 371 */
+.studio-panel-371 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 372 */
+.studio-panel-372 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 373 */
+.studio-panel-373 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 374 */
+.studio-panel-374 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 375 */
+.studio-panel-375 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 376 */
+.studio-panel-376 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 377 */
+.studio-panel-377 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 378 */
+.studio-panel-378 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 379 */
+.studio-panel-379 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 380 */
+.studio-panel-380 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 381 */
+.studio-panel-381 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 382 */
+.studio-panel-382 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 383 */
+.studio-panel-383 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 384 */
+.studio-panel-384 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 385 */
+.studio-panel-385 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 386 */
+.studio-panel-386 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 387 */
+.studio-panel-387 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 388 */
+.studio-panel-388 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 389 */
+.studio-panel-389 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 390 */
+.studio-panel-390 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 391 */
+.studio-panel-391 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 392 */
+.studio-panel-392 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 393 */
+.studio-panel-393 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 394 */
+.studio-panel-394 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 395 */
+.studio-panel-395 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 396 */
+.studio-panel-396 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 397 */
+.studio-panel-397 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 398 */
+.studio-panel-398 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 399 */
+.studio-panel-399 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 400 */
+.studio-panel-400 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 401 */
+.studio-panel-401 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 402 */
+.studio-panel-402 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 403 */
+.studio-panel-403 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 404 */
+.studio-panel-404 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 405 */
+.studio-panel-405 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 406 */
+.studio-panel-406 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 407 */
+.studio-panel-407 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 408 */
+.studio-panel-408 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 409 */
+.studio-panel-409 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 410 */
+.studio-panel-410 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 411 */
+.studio-panel-411 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 412 */
+.studio-panel-412 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 413 */
+.studio-panel-413 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 414 */
+.studio-panel-414 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 415 */
+.studio-panel-415 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 416 */
+.studio-panel-416 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 417 */
+.studio-panel-417 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 418 */
+.studio-panel-418 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 419 */
+.studio-panel-419 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 420 */
+.studio-panel-420 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 421 */
+.studio-panel-421 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 422 */
+.studio-panel-422 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 423 */
+.studio-panel-423 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 424 */
+.studio-panel-424 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 425 */
+.studio-panel-425 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 426 */
+.studio-panel-426 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 427 */
+.studio-panel-427 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 428 */
+.studio-panel-428 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 429 */
+.studio-panel-429 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 430 */
+.studio-panel-430 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 431 */
+.studio-panel-431 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 432 */
+.studio-panel-432 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 433 */
+.studio-panel-433 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 434 */
+.studio-panel-434 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 435 */
+.studio-panel-435 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 436 */
+.studio-panel-436 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 437 */
+.studio-panel-437 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 438 */
+.studio-panel-438 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 439 */
+.studio-panel-439 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 440 */
+.studio-panel-440 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 441 */
+.studio-panel-441 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 442 */
+.studio-panel-442 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 443 */
+.studio-panel-443 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 444 */
+.studio-panel-444 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 445 */
+.studio-panel-445 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 446 */
+.studio-panel-446 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 447 */
+.studio-panel-447 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 448 */
+.studio-panel-448 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 449 */
+.studio-panel-449 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 450 */
+.studio-panel-450 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 451 */
+.studio-panel-451 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 452 */
+.studio-panel-452 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 453 */
+.studio-panel-453 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 454 */
+.studio-panel-454 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 455 */
+.studio-panel-455 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 456 */
+.studio-panel-456 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 457 */
+.studio-panel-457 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 458 */
+.studio-panel-458 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 459 */
+.studio-panel-459 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 460 */
+.studio-panel-460 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 461 */
+.studio-panel-461 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 462 */
+.studio-panel-462 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 463 */
+.studio-panel-463 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 464 */
+.studio-panel-464 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 465 */
+.studio-panel-465 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 466 */
+.studio-panel-466 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 467 */
+.studio-panel-467 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 468 */
+.studio-panel-468 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 469 */
+.studio-panel-469 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 470 */
+.studio-panel-470 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 471 */
+.studio-panel-471 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 472 */
+.studio-panel-472 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 473 */
+.studio-panel-473 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 474 */
+.studio-panel-474 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 475 */
+.studio-panel-475 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 476 */
+.studio-panel-476 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 477 */
+.studio-panel-477 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 478 */
+.studio-panel-478 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 479 */
+.studio-panel-479 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 480 */
+.studio-panel-480 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 481 */
+.studio-panel-481 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 482 */
+.studio-panel-482 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 483 */
+.studio-panel-483 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 484 */
+.studio-panel-484 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 485 */
+.studio-panel-485 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 486 */
+.studio-panel-486 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 487 */
+.studio-panel-487 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 488 */
+.studio-panel-488 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 489 */
+.studio-panel-489 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 490 */
+.studio-panel-490 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 491 */
+.studio-panel-491 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 492 */
+.studio-panel-492 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 493 */
+.studio-panel-493 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 494 */
+.studio-panel-494 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 495 */
+.studio-panel-495 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 496 */
+.studio-panel-496 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 497 */
+.studio-panel-497 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 498 */
+.studio-panel-498 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 499 */
+.studio-panel-499 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 500 */
+.studio-panel-500 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 501 */
+.studio-panel-501 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 502 */
+.studio-panel-502 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 503 */
+.studio-panel-503 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 504 */
+.studio-panel-504 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 505 */
+.studio-panel-505 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 506 */
+.studio-panel-506 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 507 */
+.studio-panel-507 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 508 */
+.studio-panel-508 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 509 */
+.studio-panel-509 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 510 */
+.studio-panel-510 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 511 */
+.studio-panel-511 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 512 */
+.studio-panel-512 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 513 */
+.studio-panel-513 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 514 */
+.studio-panel-514 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 515 */
+.studio-panel-515 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 516 */
+.studio-panel-516 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 517 */
+.studio-panel-517 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 518 */
+.studio-panel-518 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 519 */
+.studio-panel-519 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 520 */
+.studio-panel-520 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 521 */
+.studio-panel-521 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 522 */
+.studio-panel-522 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 523 */
+.studio-panel-523 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 524 */
+.studio-panel-524 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 525 */
+.studio-panel-525 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 526 */
+.studio-panel-526 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 527 */
+.studio-panel-527 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 528 */
+.studio-panel-528 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 529 */
+.studio-panel-529 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 530 */
+.studio-panel-530 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 531 */
+.studio-panel-531 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 532 */
+.studio-panel-532 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 533 */
+.studio-panel-533 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 534 */
+.studio-panel-534 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 535 */
+.studio-panel-535 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 536 */
+.studio-panel-536 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 537 */
+.studio-panel-537 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 538 */
+.studio-panel-538 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 539 */
+.studio-panel-539 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 540 */
+.studio-panel-540 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 541 */
+.studio-panel-541 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 542 */
+.studio-panel-542 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 543 */
+.studio-panel-543 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 544 */
+.studio-panel-544 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 545 */
+.studio-panel-545 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 546 */
+.studio-panel-546 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 547 */
+.studio-panel-547 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 548 */
+.studio-panel-548 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 549 */
+.studio-panel-549 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 550 */
+.studio-panel-550 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 551 */
+.studio-panel-551 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 552 */
+.studio-panel-552 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 553 */
+.studio-panel-553 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 554 */
+.studio-panel-554 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 555 */
+.studio-panel-555 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 556 */
+.studio-panel-556 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 557 */
+.studio-panel-557 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 558 */
+.studio-panel-558 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 559 */
+.studio-panel-559 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 560 */
+.studio-panel-560 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 561 */
+.studio-panel-561 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 562 */
+.studio-panel-562 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 563 */
+.studio-panel-563 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 564 */
+.studio-panel-564 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 565 */
+.studio-panel-565 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 566 */
+.studio-panel-566 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 567 */
+.studio-panel-567 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 568 */
+.studio-panel-568 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 569 */
+.studio-panel-569 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 570 */
+.studio-panel-570 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 571 */
+.studio-panel-571 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 572 */
+.studio-panel-572 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 573 */
+.studio-panel-573 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 574 */
+.studio-panel-574 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 575 */
+.studio-panel-575 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 576 */
+.studio-panel-576 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 577 */
+.studio-panel-577 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 578 */
+.studio-panel-578 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 579 */
+.studio-panel-579 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 580 */
+.studio-panel-580 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 581 */
+.studio-panel-581 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 582 */
+.studio-panel-582 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 583 */
+.studio-panel-583 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 584 */
+.studio-panel-584 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 585 */
+.studio-panel-585 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 586 */
+.studio-panel-586 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 587 */
+.studio-panel-587 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 588 */
+.studio-panel-588 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 589 */
+.studio-panel-589 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 590 */
+.studio-panel-590 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 591 */
+.studio-panel-591 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 592 */
+.studio-panel-592 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 593 */
+.studio-panel-593 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 594 */
+.studio-panel-594 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 595 */
+.studio-panel-595 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 596 */
+.studio-panel-596 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 597 */
+.studio-panel-597 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 598 */
+.studio-panel-598 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 599 */
+.studio-panel-599 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 600 */
+.studio-panel-600 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 601 */
+.studio-panel-601 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 602 */
+.studio-panel-602 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 603 */
+.studio-panel-603 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 604 */
+.studio-panel-604 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 605 */
+.studio-panel-605 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 606 */
+.studio-panel-606 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 607 */
+.studio-panel-607 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 608 */
+.studio-panel-608 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 609 */
+.studio-panel-609 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 610 */
+.studio-panel-610 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 611 */
+.studio-panel-611 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 612 */
+.studio-panel-612 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 613 */
+.studio-panel-613 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 614 */
+.studio-panel-614 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 615 */
+.studio-panel-615 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 616 */
+.studio-panel-616 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 617 */
+.studio-panel-617 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 618 */
+.studio-panel-618 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 619 */
+.studio-panel-619 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 620 */
+.studio-panel-620 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 621 */
+.studio-panel-621 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 622 */
+.studio-panel-622 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 623 */
+.studio-panel-623 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 624 */
+.studio-panel-624 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 625 */
+.studio-panel-625 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 626 */
+.studio-panel-626 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 627 */
+.studio-panel-627 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 628 */
+.studio-panel-628 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 629 */
+.studio-panel-629 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 630 */
+.studio-panel-630 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 631 */
+.studio-panel-631 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 632 */
+.studio-panel-632 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 633 */
+.studio-panel-633 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 634 */
+.studio-panel-634 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 635 */
+.studio-panel-635 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 636 */
+.studio-panel-636 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 637 */
+.studio-panel-637 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 638 */
+.studio-panel-638 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 639 */
+.studio-panel-639 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 640 */
+.studio-panel-640 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 641 */
+.studio-panel-641 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 642 */
+.studio-panel-642 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 643 */
+.studio-panel-643 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 644 */
+.studio-panel-644 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 645 */
+.studio-panel-645 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 646 */
+.studio-panel-646 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 647 */
+.studio-panel-647 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 648 */
+.studio-panel-648 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 649 */
+.studio-panel-649 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 650 */
+.studio-panel-650 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 651 */
+.studio-panel-651 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 652 */
+.studio-panel-652 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 653 */
+.studio-panel-653 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 654 */
+.studio-panel-654 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 655 */
+.studio-panel-655 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 656 */
+.studio-panel-656 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 657 */
+.studio-panel-657 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 658 */
+.studio-panel-658 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 659 */
+.studio-panel-659 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 660 */
+.studio-panel-660 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 661 */
+.studio-panel-661 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 662 */
+.studio-panel-662 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 663 */
+.studio-panel-663 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 664 */
+.studio-panel-664 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 665 */
+.studio-panel-665 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 666 */
+.studio-panel-666 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 667 */
+.studio-panel-667 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 668 */
+.studio-panel-668 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 669 */
+.studio-panel-669 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 670 */
+.studio-panel-670 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 671 */
+.studio-panel-671 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 672 */
+.studio-panel-672 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 673 */
+.studio-panel-673 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 674 */
+.studio-panel-674 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 675 */
+.studio-panel-675 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 676 */
+.studio-panel-676 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 677 */
+.studio-panel-677 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 678 */
+.studio-panel-678 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 679 */
+.studio-panel-679 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 680 */
+.studio-panel-680 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 681 */
+.studio-panel-681 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 682 */
+.studio-panel-682 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 683 */
+.studio-panel-683 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 684 */
+.studio-panel-684 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 685 */
+.studio-panel-685 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 686 */
+.studio-panel-686 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 687 */
+.studio-panel-687 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 688 */
+.studio-panel-688 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 689 */
+.studio-panel-689 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 690 */
+.studio-panel-690 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 691 */
+.studio-panel-691 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 692 */
+.studio-panel-692 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 693 */
+.studio-panel-693 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 694 */
+.studio-panel-694 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 695 */
+.studio-panel-695 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 696 */
+.studio-panel-696 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 697 */
+.studio-panel-697 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 698 */
+.studio-panel-698 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 699 */
+.studio-panel-699 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 700 */
+.studio-panel-700 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 701 */
+.studio-panel-701 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 702 */
+.studio-panel-702 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 703 */
+.studio-panel-703 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 704 */
+.studio-panel-704 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 705 */
+.studio-panel-705 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 706 */
+.studio-panel-706 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 707 */
+.studio-panel-707 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 708 */
+.studio-panel-708 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 709 */
+.studio-panel-709 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 710 */
+.studio-panel-710 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 711 */
+.studio-panel-711 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 712 */
+.studio-panel-712 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 713 */
+.studio-panel-713 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 714 */
+.studio-panel-714 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 715 */
+.studio-panel-715 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 716 */
+.studio-panel-716 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 717 */
+.studio-panel-717 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 718 */
+.studio-panel-718 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 719 */
+.studio-panel-719 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 720 */
+.studio-panel-720 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 721 */
+.studio-panel-721 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 722 */
+.studio-panel-722 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 723 */
+.studio-panel-723 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 724 */
+.studio-panel-724 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 725 */
+.studio-panel-725 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 726 */
+.studio-panel-726 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 727 */
+.studio-panel-727 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 728 */
+.studio-panel-728 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 729 */
+.studio-panel-729 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 730 */
+.studio-panel-730 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 731 */
+.studio-panel-731 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 732 */
+.studio-panel-732 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 733 */
+.studio-panel-733 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 734 */
+.studio-panel-734 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 735 */
+.studio-panel-735 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 736 */
+.studio-panel-736 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 737 */
+.studio-panel-737 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 738 */
+.studio-panel-738 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 739 */
+.studio-panel-739 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 740 */
+.studio-panel-740 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 741 */
+.studio-panel-741 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 742 */
+.studio-panel-742 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 743 */
+.studio-panel-743 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 744 */
+.studio-panel-744 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 745 */
+.studio-panel-745 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 746 */
+.studio-panel-746 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 747 */
+.studio-panel-747 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 748 */
+.studio-panel-748 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 749 */
+.studio-panel-749 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 750 */
+.studio-panel-750 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 751 */
+.studio-panel-751 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 752 */
+.studio-panel-752 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 753 */
+.studio-panel-753 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 754 */
+.studio-panel-754 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 755 */
+.studio-panel-755 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 756 */
+.studio-panel-756 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 757 */
+.studio-panel-757 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 758 */
+.studio-panel-758 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 759 */
+.studio-panel-759 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 760 */
+.studio-panel-760 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 761 */
+.studio-panel-761 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 762 */
+.studio-panel-762 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 763 */
+.studio-panel-763 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 764 */
+.studio-panel-764 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 765 */
+.studio-panel-765 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 766 */
+.studio-panel-766 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 767 */
+.studio-panel-767 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 768 */
+.studio-panel-768 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 769 */
+.studio-panel-769 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 770 */
+.studio-panel-770 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 771 */
+.studio-panel-771 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 772 */
+.studio-panel-772 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 773 */
+.studio-panel-773 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 774 */
+.studio-panel-774 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 775 */
+.studio-panel-775 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 776 */
+.studio-panel-776 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 777 */
+.studio-panel-777 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 778 */
+.studio-panel-778 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 779 */
+.studio-panel-779 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 780 */
+.studio-panel-780 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 781 */
+.studio-panel-781 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 782 */
+.studio-panel-782 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 783 */
+.studio-panel-783 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 784 */
+.studio-panel-784 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 785 */
+.studio-panel-785 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 786 */
+.studio-panel-786 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 787 */
+.studio-panel-787 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 788 */
+.studio-panel-788 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 789 */
+.studio-panel-789 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 790 */
+.studio-panel-790 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 791 */
+.studio-panel-791 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 792 */
+.studio-panel-792 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 793 */
+.studio-panel-793 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 794 */
+.studio-panel-794 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 795 */
+.studio-panel-795 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 796 */
+.studio-panel-796 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 797 */
+.studio-panel-797 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 798 */
+.studio-panel-798 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 799 */
+.studio-panel-799 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 800 */
+.studio-panel-800 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 801 */
+.studio-panel-801 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 802 */
+.studio-panel-802 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 803 */
+.studio-panel-803 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 804 */
+.studio-panel-804 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 805 */
+.studio-panel-805 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 806 */
+.studio-panel-806 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 807 */
+.studio-panel-807 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 808 */
+.studio-panel-808 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 809 */
+.studio-panel-809 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 810 */
+.studio-panel-810 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 811 */
+.studio-panel-811 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 812 */
+.studio-panel-812 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 813 */
+.studio-panel-813 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 814 */
+.studio-panel-814 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 815 */
+.studio-panel-815 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 816 */
+.studio-panel-816 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 817 */
+.studio-panel-817 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 818 */
+.studio-panel-818 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 819 */
+.studio-panel-819 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 820 */
+.studio-panel-820 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 821 */
+.studio-panel-821 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 822 */
+.studio-panel-822 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 823 */
+.studio-panel-823 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 824 */
+.studio-panel-824 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 825 */
+.studio-panel-825 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 826 */
+.studio-panel-826 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 827 */
+.studio-panel-827 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 828 */
+.studio-panel-828 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 829 */
+.studio-panel-829 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 830 */
+.studio-panel-830 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 831 */
+.studio-panel-831 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 832 */
+.studio-panel-832 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 833 */
+.studio-panel-833 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 834 */
+.studio-panel-834 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 835 */
+.studio-panel-835 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 836 */
+.studio-panel-836 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 837 */
+.studio-panel-837 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 838 */
+.studio-panel-838 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 839 */
+.studio-panel-839 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 840 */
+.studio-panel-840 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 841 */
+.studio-panel-841 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 842 */
+.studio-panel-842 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 843 */
+.studio-panel-843 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 844 */
+.studio-panel-844 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 845 */
+.studio-panel-845 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 846 */
+.studio-panel-846 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 847 */
+.studio-panel-847 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 848 */
+.studio-panel-848 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 849 */
+.studio-panel-849 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 850 */
+.studio-panel-850 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 851 */
+.studio-panel-851 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 852 */
+.studio-panel-852 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 853 */
+.studio-panel-853 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 854 */
+.studio-panel-854 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 855 */
+.studio-panel-855 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 856 */
+.studio-panel-856 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 857 */
+.studio-panel-857 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 858 */
+.studio-panel-858 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 859 */
+.studio-panel-859 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 860 */
+.studio-panel-860 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 861 */
+.studio-panel-861 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 862 */
+.studio-panel-862 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 863 */
+.studio-panel-863 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 864 */
+.studio-panel-864 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 865 */
+.studio-panel-865 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 866 */
+.studio-panel-866 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 867 */
+.studio-panel-867 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 868 */
+.studio-panel-868 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 869 */
+.studio-panel-869 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 870 */
+.studio-panel-870 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 871 */
+.studio-panel-871 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 872 */
+.studio-panel-872 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 873 */
+.studio-panel-873 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 874 */
+.studio-panel-874 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 875 */
+.studio-panel-875 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 876 */
+.studio-panel-876 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 877 */
+.studio-panel-877 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 878 */
+.studio-panel-878 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 879 */
+.studio-panel-879 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 880 */
+.studio-panel-880 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 881 */
+.studio-panel-881 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 882 */
+.studio-panel-882 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 883 */
+.studio-panel-883 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 884 */
+.studio-panel-884 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 885 */
+.studio-panel-885 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 886 */
+.studio-panel-886 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 887 */
+.studio-panel-887 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 888 */
+.studio-panel-888 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 889 */
+.studio-panel-889 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 890 */
+.studio-panel-890 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 891 */
+.studio-panel-891 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 892 */
+.studio-panel-892 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 893 */
+.studio-panel-893 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 894 */
+.studio-panel-894 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 895 */
+.studio-panel-895 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 896 */
+.studio-panel-896 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 897 */
+.studio-panel-897 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 898 */
+.studio-panel-898 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 899 */
+.studio-panel-899 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 900 */
+.studio-panel-900 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 901 */
+.studio-panel-901 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 902 */
+.studio-panel-902 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 903 */
+.studio-panel-903 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 904 */
+.studio-panel-904 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 905 */
+.studio-panel-905 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 906 */
+.studio-panel-906 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 907 */
+.studio-panel-907 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 908 */
+.studio-panel-908 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 909 */
+.studio-panel-909 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 910 */
+.studio-panel-910 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 911 */
+.studio-panel-911 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 912 */
+.studio-panel-912 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 913 */
+.studio-panel-913 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 914 */
+.studio-panel-914 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 915 */
+.studio-panel-915 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 916 */
+.studio-panel-916 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 917 */
+.studio-panel-917 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 918 */
+.studio-panel-918 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 919 */
+.studio-panel-919 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 920 */
+.studio-panel-920 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 921 */
+.studio-panel-921 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 922 */
+.studio-panel-922 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 923 */
+.studio-panel-923 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 924 */
+.studio-panel-924 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 925 */
+.studio-panel-925 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 926 */
+.studio-panel-926 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 927 */
+.studio-panel-927 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 928 */
+.studio-panel-928 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 929 */
+.studio-panel-929 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 930 */
+.studio-panel-930 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 931 */
+.studio-panel-931 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 932 */
+.studio-panel-932 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 933 */
+.studio-panel-933 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 934 */
+.studio-panel-934 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 935 */
+.studio-panel-935 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 936 */
+.studio-panel-936 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 937 */
+.studio-panel-937 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 938 */
+.studio-panel-938 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 939 */
+.studio-panel-939 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 940 */
+.studio-panel-940 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 941 */
+.studio-panel-941 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 942 */
+.studio-panel-942 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 943 */
+.studio-panel-943 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 944 */
+.studio-panel-944 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 945 */
+.studio-panel-945 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 946 */
+.studio-panel-946 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 947 */
+.studio-panel-947 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 948 */
+.studio-panel-948 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 949 */
+.studio-panel-949 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 950 */
+.studio-panel-950 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 951 */
+.studio-panel-951 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 952 */
+.studio-panel-952 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 953 */
+.studio-panel-953 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 954 */
+.studio-panel-954 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 955 */
+.studio-panel-955 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 956 */
+.studio-panel-956 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 957 */
+.studio-panel-957 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 958 */
+.studio-panel-958 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 959 */
+.studio-panel-959 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 960 */
+.studio-panel-960 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 961 */
+.studio-panel-961 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 962 */
+.studio-panel-962 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 963 */
+.studio-panel-963 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 964 */
+.studio-panel-964 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 965 */
+.studio-panel-965 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 966 */
+.studio-panel-966 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 967 */
+.studio-panel-967 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 968 */
+.studio-panel-968 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 969 */
+.studio-panel-969 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 970 */
+.studio-panel-970 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 971 */
+.studio-panel-971 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 972 */
+.studio-panel-972 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 973 */
+.studio-panel-973 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 974 */
+.studio-panel-974 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 975 */
+.studio-panel-975 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 976 */
+.studio-panel-976 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 977 */
+.studio-panel-977 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 978 */
+.studio-panel-978 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 979 */
+.studio-panel-979 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 980 */
+.studio-panel-980 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 981 */
+.studio-panel-981 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 982 */
+.studio-panel-982 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 983 */
+.studio-panel-983 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 984 */
+.studio-panel-984 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 985 */
+.studio-panel-985 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 986 */
+.studio-panel-986 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 987 */
+.studio-panel-987 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 988 */
+.studio-panel-988 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 989 */
+.studio-panel-989 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 990 */
+.studio-panel-990 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 991 */
+.studio-panel-991 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 992 */
+.studio-panel-992 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 993 */
+.studio-panel-993 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 994 */
+.studio-panel-994 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 995 */
+.studio-panel-995 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 996 */
+.studio-panel-996 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 997 */
+.studio-panel-997 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 998 */
+.studio-panel-998 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 999 */
+.studio-panel-999 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 1000 */
+.studio-panel-1000 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 1001 */
+.studio-panel-1001 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 1002 */
+.studio-panel-1002 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 1003 */
+.studio-panel-1003 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 1004 */
+.studio-panel-1004 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 1005 */
+.studio-panel-1005 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 1006 */
+.studio-panel-1006 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 1007 */
+.studio-panel-1007 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 1008 */
+.studio-panel-1008 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 1009 */
+.studio-panel-1009 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 1010 */
+.studio-panel-1010 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 1011 */
+.studio-panel-1011 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 1012 */
+.studio-panel-1012 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 1013 */
+.studio-panel-1013 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 1014 */
+.studio-panel-1014 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 1015 */
+.studio-panel-1015 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 1016 */
+.studio-panel-1016 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 1017 */
+.studio-panel-1017 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 1018 */
+.studio-panel-1018 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 1019 */
+.studio-panel-1019 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 1020 */
+.studio-panel-1020 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 1021 */
+.studio-panel-1021 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 1022 */
+.studio-panel-1022 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 1023 */
+.studio-panel-1023 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 1024 */
+.studio-panel-1024 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 1025 */
+.studio-panel-1025 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 1026 */
+.studio-panel-1026 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 1027 */
+.studio-panel-1027 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 1028 */
+.studio-panel-1028 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 1029 */
+.studio-panel-1029 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 1030 */
+.studio-panel-1030 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 1031 */
+.studio-panel-1031 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 1032 */
+.studio-panel-1032 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 1033 */
+.studio-panel-1033 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 1034 */
+.studio-panel-1034 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 1035 */
+.studio-panel-1035 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 1036 */
+.studio-panel-1036 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 1037 */
+.studio-panel-1037 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 1038 */
+.studio-panel-1038 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 1039 */
+.studio-panel-1039 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 1040 */
+.studio-panel-1040 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 1041 */
+.studio-panel-1041 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 1042 */
+.studio-panel-1042 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 1043 */
+.studio-panel-1043 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 1044 */
+.studio-panel-1044 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 1045 */
+.studio-panel-1045 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 1046 */
+.studio-panel-1046 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 1047 */
+.studio-panel-1047 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 1048 */
+.studio-panel-1048 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 1049 */
+.studio-panel-1049 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 1050 */
+.studio-panel-1050 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 1051 */
+.studio-panel-1051 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 1052 */
+.studio-panel-1052 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 1053 */
+.studio-panel-1053 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 1054 */
+.studio-panel-1054 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 1055 */
+.studio-panel-1055 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 1056 */
+.studio-panel-1056 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 1057 */
+.studio-panel-1057 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 1058 */
+.studio-panel-1058 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 1059 */
+.studio-panel-1059 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 1060 */
+.studio-panel-1060 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 1061 */
+.studio-panel-1061 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 1062 */
+.studio-panel-1062 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 1063 */
+.studio-panel-1063 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 1064 */
+.studio-panel-1064 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 1065 */
+.studio-panel-1065 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 1066 */
+.studio-panel-1066 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 1067 */
+.studio-panel-1067 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 1068 */
+.studio-panel-1068 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 1069 */
+.studio-panel-1069 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 1070 */
+.studio-panel-1070 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 1071 */
+.studio-panel-1071 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 1072 */
+.studio-panel-1072 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 1073 */
+.studio-panel-1073 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 1074 */
+.studio-panel-1074 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 1075 */
+.studio-panel-1075 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 1076 */
+.studio-panel-1076 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 1077 */
+.studio-panel-1077 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 1078 */
+.studio-panel-1078 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 1079 */
+.studio-panel-1079 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 1080 */
+.studio-panel-1080 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 1081 */
+.studio-panel-1081 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 1082 */
+.studio-panel-1082 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 1083 */
+.studio-panel-1083 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 1084 */
+.studio-panel-1084 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 1085 */
+.studio-panel-1085 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 1086 */
+.studio-panel-1086 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 1087 */
+.studio-panel-1087 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 1088 */
+.studio-panel-1088 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 1089 */
+.studio-panel-1089 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 1090 */
+.studio-panel-1090 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 1091 */
+.studio-panel-1091 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 1092 */
+.studio-panel-1092 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 1093 */
+.studio-panel-1093 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 1094 */
+.studio-panel-1094 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 1095 */
+.studio-panel-1095 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 1096 */
+.studio-panel-1096 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 1097 */
+.studio-panel-1097 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 1098 */
+.studio-panel-1098 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 1099 */
+.studio-panel-1099 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 1100 */
+.studio-panel-1100 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 1101 */
+.studio-panel-1101 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 1102 */
+.studio-panel-1102 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 1103 */
+.studio-panel-1103 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 1104 */
+.studio-panel-1104 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 1105 */
+.studio-panel-1105 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 1106 */
+.studio-panel-1106 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 1107 */
+.studio-panel-1107 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 1108 */
+.studio-panel-1108 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 1109 */
+.studio-panel-1109 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 1110 */
+.studio-panel-1110 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 1111 */
+.studio-panel-1111 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 1112 */
+.studio-panel-1112 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 1113 */
+.studio-panel-1113 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 1114 */
+.studio-panel-1114 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 1115 */
+.studio-panel-1115 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 1116 */
+.studio-panel-1116 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 1117 */
+.studio-panel-1117 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 1118 */
+.studio-panel-1118 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 1119 */
+.studio-panel-1119 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 1120 */
+.studio-panel-1120 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 1121 */
+.studio-panel-1121 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 1122 */
+.studio-panel-1122 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 1123 */
+.studio-panel-1123 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 1124 */
+.studio-panel-1124 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 1125 */
+.studio-panel-1125 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 1126 */
+.studio-panel-1126 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 1127 */
+.studio-panel-1127 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 1128 */
+.studio-panel-1128 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 1129 */
+.studio-panel-1129 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 1130 */
+.studio-panel-1130 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 1131 */
+.studio-panel-1131 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 1132 */
+.studio-panel-1132 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 1133 */
+.studio-panel-1133 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 1134 */
+.studio-panel-1134 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 1135 */
+.studio-panel-1135 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 1136 */
+.studio-panel-1136 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 1137 */
+.studio-panel-1137 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 1138 */
+.studio-panel-1138 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 1139 */
+.studio-panel-1139 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 1140 */
+.studio-panel-1140 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 1141 */
+.studio-panel-1141 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 1142 */
+.studio-panel-1142 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 1143 */
+.studio-panel-1143 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 1144 */
+.studio-panel-1144 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 1145 */
+.studio-panel-1145 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 1146 */
+.studio-panel-1146 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 1147 */
+.studio-panel-1147 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 1148 */
+.studio-panel-1148 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 1149 */
+.studio-panel-1149 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 1150 */
+.studio-panel-1150 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 1151 */
+.studio-panel-1151 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 1152 */
+.studio-panel-1152 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 1153 */
+.studio-panel-1153 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 1154 */
+.studio-panel-1154 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 1155 */
+.studio-panel-1155 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 1156 */
+.studio-panel-1156 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 1157 */
+.studio-panel-1157 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 1158 */
+.studio-panel-1158 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 1159 */
+.studio-panel-1159 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 1160 */
+.studio-panel-1160 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 1161 */
+.studio-panel-1161 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 1162 */
+.studio-panel-1162 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 1163 */
+.studio-panel-1163 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 1164 */
+.studio-panel-1164 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 1165 */
+.studio-panel-1165 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 1166 */
+.studio-panel-1166 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 1167 */
+.studio-panel-1167 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 1168 */
+.studio-panel-1168 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 1169 */
+.studio-panel-1169 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 1170 */
+.studio-panel-1170 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 1171 */
+.studio-panel-1171 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 1172 */
+.studio-panel-1172 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 1173 */
+.studio-panel-1173 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 1174 */
+.studio-panel-1174 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 1175 */
+.studio-panel-1175 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 1176 */
+.studio-panel-1176 {
+    border-radius: 2px;
+    padding: 4px;
+}
+
+/* Section 1177 */
+.studio-panel-1177 {
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Section 1178 */
+.studio-panel-1178 {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+/* Section 1179 */
+.studio-panel-1179 {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+/* Section 1180 */
+.studio-panel-1180 {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Section 1181 */
+.studio-panel-1181 {
+    border-radius: 7px;
+    padding: 9px;
+}
+
+/* Section 1182 */
+.studio-panel-1182 {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Section 1183 */
+.studio-panel-1183 {
+    border-radius: 9px;
+    padding: 11px;
+}
+
+/* Section 1184 */
+.studio-panel-1184 {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* Section 1185 */
+.studio-panel-1185 {
+    border-radius: 3px;
+    padding: 13px;
+}
+
+/* Section 1186 */
+.studio-panel-1186 {
+    border-radius: 4px;
+    padding: 14px;
+}
+
+/* Section 1187 */
+.studio-panel-1187 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+/* Section 1188 */
+.studio-panel-1188 {
+    border-radius: 6px;
+    padding: 4px;
+}
+
+/* Section 1189 */
+.studio-panel-1189 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+/* Section 1190 */
+.studio-panel-1190 {
+    border-radius: 8px;
+    padding: 6px;
+}
+
+/* Section 1191 */
+.studio-panel-1191 {
+    border-radius: 9px;
+    padding: 7px;
+}
+
+/* Section 1192 */
+.studio-panel-1192 {
+    border-radius: 2px;
+    padding: 8px;
+}
+
+/* Section 1193 */
+.studio-panel-1193 {
+    border-radius: 3px;
+    padding: 9px;
+}
+
+/* Section 1194 */
+.studio-panel-1194 {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Section 1195 */
+.studio-panel-1195 {
+    border-radius: 5px;
+    padding: 11px;
+}
+
+/* Section 1196 */
+.studio-panel-1196 {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Section 1197 */
+.studio-panel-1197 {
+    border-radius: 7px;
+    padding: 13px;
+}
+
+/* Section 1198 */
+.studio-panel-1198 {
+    border-radius: 8px;
+    padding: 14px;
+}
+
+/* Section 1199 */
+.studio-panel-1199 {
+    border-radius: 9px;
+    padding: 15px;
+}
+
+/* Section 1200 */
+.studio-panel-1200 {
+    border-radius: 2px;
+    padding: 4px;
+}
